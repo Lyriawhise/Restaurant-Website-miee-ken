@@ -17,7 +17,7 @@ Miee'Ken is a culinary website that offers a variety of delicious noodle dishes 
 - **Additional Libraries:** Bootstrap, jQuery
 
 ## Kontributor
-- **Lyriawhise** - ()
+- **Lyriawhise** - (https://github.com/Lyriawhise)
 - **Xiera** - (https://github.com/Oxy-XRPL2)
 
 
